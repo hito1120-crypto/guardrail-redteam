@@ -100,4 +100,4 @@ Note: the sample `claims`/`source` text above is Japanese — the API transforms
 
 ## License
 
-Not yet finalized. Until then, this repository's content is treated as **All Rights Reserved** (no redistribution or modification is granted). This section will be updated once a license is decided.
+**All Rights Reserved.** No part of this repository's content (README files and sample code included) may be redistributed, modified, or otherwise used without prior written permission from the copyright holder. See [LICENSE](./LICENSE) for details.
